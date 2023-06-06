@@ -19,7 +19,6 @@
 
 ### Te werk gaan : 
 - Eerst proberen om een bestand van een github repo te halen
-    - Niet gelukt wegens premissie errors dus linux rocky
 - Vervolgens een test module te laten werken 
 - Die een bestand zal maken in het mapje logs 
 - En vervolgens de bestanden zal versturen naar de repo
